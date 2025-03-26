@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.card {
+    margin-bottom: 20px;
+}
+.ad-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
